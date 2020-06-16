@@ -1,15 +1,15 @@
                                                  #The Uplift Project
                                                      #TEAM4-AD01
 
-#Team Details:
+Team Details:
 
-#Mentors:-
+Mentors:-
 Uvaish Zafri 
 Vivek Verma 
 Geetika Keim
 
 
-#Participants:- 
+Participants:- 
 Akanksha  		 
 Aditi Bendwal 		
 Dhruv Sharma		
@@ -25,9 +25,9 @@ Akshat Tripathi
 Dolly		
 
 
-#Project Domain: Education
+Project Domain: Education
 
-#Project Name: Career_Plus
+Project Name: Career_Plus
 
 Problem: Choosing a career after Intermediate in which you have to spend your whole life is a daunting task. We always try to do our
 best but there is always a fear of being wrong.There are also cases in which students realise leaning towards another stream after
