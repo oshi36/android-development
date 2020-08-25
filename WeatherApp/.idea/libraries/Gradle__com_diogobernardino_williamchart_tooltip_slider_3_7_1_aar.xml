@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.diogobernardino.williamchart:tooltip-slider:3.7.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/39fff484f52e4f0c3993c39b31b159d9/jetified-tooltip-slider-3.7.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/39fff484f52e4f0c3993c39b31b159d9/jetified-tooltip-slider-3.7.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/39fff484f52e4f0c3993c39b31b159d9/jetified-tooltip-slider-3.7.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.diogobernardino.williamchart/tooltip-slider/3.7.1/ee8e7f43218943816306abf682e453ff74b4901/tooltip-slider-3.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

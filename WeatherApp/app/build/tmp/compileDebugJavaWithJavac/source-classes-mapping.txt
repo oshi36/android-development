@@ -1,0 +1,21 @@
+com/hoc/weatherapp/data/local/AppDatabase_Impl.java
+ com.hoc.weatherapp.data.local.AppDatabase_Impl
+ com.hoc.weatherapp.data.local.AppDatabase_Impl$1
+com/hoc/weatherapp/data/local/CityDao_Impl.java
+ com.hoc.weatherapp.data.local.CityDao_Impl
+ com.hoc.weatherapp.data.local.CityDao_Impl$1
+ com.hoc.weatherapp.data.local.CityDao_Impl$2
+ com.hoc.weatherapp.data.local.CityDao_Impl$3
+com/hoc/weatherapp/data/local/FiveDayForecastDao_Impl.java
+ com.hoc.weatherapp.data.local.FiveDayForecastDao_Impl
+ com.hoc.weatherapp.data.local.FiveDayForecastDao_Impl$1
+ com.hoc.weatherapp.data.local.FiveDayForecastDao_Impl$2
+ com.hoc.weatherapp.data.local.FiveDayForecastDao_Impl$3
+com/hoc/weatherapp/data/local/CurrentWeatherDao_Impl.java
+ com.hoc.weatherapp.data.local.CurrentWeatherDao_Impl
+ com.hoc.weatherapp.data.local.CurrentWeatherDao_Impl$1
+ com.hoc.weatherapp.data.local.CurrentWeatherDao_Impl$2
+ com.hoc.weatherapp.data.local.CurrentWeatherDao_Impl$3
+ com.hoc.weatherapp.data.local.CurrentWeatherDao_Impl$4
+com/hoc/weatherapp/BuildConfig.java
+ com.hoc.weatherapp.BuildConfig
