@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rain_day_bg.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\rain_day_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\font_noto_serif.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\font\\noto_serif.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_close.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable-mdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_detail_pcpn.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_detail_pcpn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_daily_weather_header_layout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\daily_weather_header_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_light.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\font\\lato_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_null.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_null.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_navigate_before_white_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_navigate_before_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_daily_weather_divider.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\daily_weather_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_water_black_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_water_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_white_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_add_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_humidity_black_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_humidity_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_11d.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_11d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_50n.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_50n.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_09n.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_09n.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_01d.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_01d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_snow_black_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_snow_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_close.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_01n.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_01n.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_10n.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_10n.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete_black_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_delete_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_tornado.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_tornado.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings_white_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_settings_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_map_white_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_map_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cities.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\activity_cities.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_windmill.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\anim\\windmill.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_close.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable-hdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_live_weather.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\activity_live_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_background.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\splash_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sync_black_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\font_noto_sans.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\font\\noto_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_02d.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_02d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_detail_pressure.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_detail_pressure.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_thermometer_black_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_thermometer_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rain_night_bg.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\rain_night_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_daily_weather_item_layout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\daily_weather_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cloud_day_bg.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\cloud_day_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_close.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash_demo.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\splash_demo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_04d.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_04d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_dust.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_dust.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_detail_hum.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_detail_hum.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_rain_day.mp3.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\raw\\rain_day.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_windmill_layout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\windmill_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_03d.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_03d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_city_item_layout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\city_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_bottom_nav_map.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\menu\\menu_bottom_nav_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_foggy.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_foggy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_current_weather.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\fragment_current_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_13d.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_13d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\font_open_sans.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\font\\open_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_50d.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_50d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pressure_black_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_pressure_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_close.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_close.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_02n.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_02n.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_water_white_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_water_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_haze.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_haze.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_city.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\activity_add_city.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clear_day_bg.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\clear_day_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\font\\montserrat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_detail_visibility.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_detail_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_thin.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\font\\lato_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_09d.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_09d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cloud_black_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_cloud_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_windy_white_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_windy_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_windmill_column.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_windmill_column.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_bg.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\default_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vertial_scrollbar_thumb.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\vertial_scrollbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cloud_night_bg.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\cloud_night_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_navigate_before_black_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_navigate_before_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_location.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\menu\\menu_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location_on_white_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_location_on_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_10d.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_10d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_clear_day.mp3.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\raw\\clear_day.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\font\\nunito.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_detail_item_layout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\detail_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_11n.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_11n.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chart.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\fragment_chart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_playlist_add_white_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_playlist_add_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hot_bg.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\hot_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient_shape.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\gradient_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_sans.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\font\\nunito_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info_black_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_white_background_ripple.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\white_background_ripple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clear_night_bg.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\clear_night_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_13n.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_13n.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_03n.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_03n.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_bg.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\splash_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_windy_black_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_windy_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_daily_weather.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\activity_detail_daily_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash_icon.png.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\splash_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_some_city_layout.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\some_city_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_weather_icon_04n.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\weather_icon_04n.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_white_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_search_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_navigate_next_white_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_navigate_next_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_snow_day.mp3.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\raw\\snow_day.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_windmill_blade.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_windmill_blade.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_daily_weather.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\layout\\fragment_daily_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\raw_thunderstorm_day.mp3.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\raw\\thunderstorm_day.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_thermometer_white_24dp.xml.flat",
+        "source": "C:\\Users\\Lenovo\\AndroidStudioProjects\\WeatherApp\\app\\src\\main\\res\\drawable\\ic_thermometer_white_24dp.xml"
+    }
+]
